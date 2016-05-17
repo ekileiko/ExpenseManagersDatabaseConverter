@@ -1,0 +1,2 @@
+# ExpenseManagersDatabaseConverter
+Expense managers database converter
